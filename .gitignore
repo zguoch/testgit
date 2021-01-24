@@ -1,0 +1,10 @@
+_minted-test1
+*.log
+*.aux
+*.bbl
+*.blg
+*.loc
+*.out
+*.pdf
+*.soc
+*.gz
